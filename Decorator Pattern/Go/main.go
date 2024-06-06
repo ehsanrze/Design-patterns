@@ -1,0 +1,1 @@
+// the answer of the problem with golang.
