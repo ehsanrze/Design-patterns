@@ -1,0 +1,8 @@
+Key: "phvvdjh", Value: "Lw lv d vlpsoh phvvdjh."
+Key: "xvhuLg", Value: 4
+Key: "vhvvlrqLg", Value: 5
+Key: "wlphvwdps", Value: "5357-39-30W44:33:39.613564+36:63"
+Key: message, Value: It is a simple message.
+Key: userId, Value: 1
+Key: sessionId, Value: 2
+Key: timestamp, Value: 2024-06-07 11:00:13.842132 +0330 +0330 m=+0.000289751
